@@ -1,0 +1,5 @@
+{
+  "name": "Azkar App",
+  "description": "An integrated Azkar application to help Muslims read daily remembrances with counters and progress tracking, featuring a beautiful and user-friendly interface.",
+  "requestFramePermissions": []
+}
